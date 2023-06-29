@@ -1,1 +1,1 @@
-# chesspiecedetector
+# chesspieceidentifier
