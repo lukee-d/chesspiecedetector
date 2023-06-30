@@ -6,11 +6,12 @@ bishop, king, knight, pawn, queen, rook, their respective color- white or black,
 
 Input image
 
-![black_rook_1_A1](https://github.com/lukee-d/chesspiecedetector/assets/101306438/8d314672-381e-4027-ac49-73b903765657)
+![black_rook_1_A1](https://github.com/lukee-d/chesspiecedetector/assets/101306438/00e01ae0-6242-41f4-9c55-c5bf1ecf7677)
 
 Output image
 
-![test](https://github.com/lukee-d/chesspiecedetector/assets/101306438/ffc16e06-0a74-46d7-bdd8-7bf31b1c05b6)
+![test](https://github.com/lukee-d/chesspiecedetector/assets/101306438/6b223aca-ff02-4951-9756-7116ab66c6c6)
+6)
 
 
 
